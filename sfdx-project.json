@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "FFLIB Apex Mocks",
+            "versionName": "Version 1.1",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "FFLIB Apex Mocks": "0Ho2e000000001YCAQ",
+        "FFLIB Apex Mocks@1.1.0-2": "04t2e0000000TLmAAM"
+    }
+}

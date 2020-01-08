@@ -1,0 +1,14 @@
+{
+    "orgName": "Synergy",
+    "edition": "Developer",
+    "features": [
+        "API",
+        "AuthorApex",
+        "DebugApex"
+    ],
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    }
+}

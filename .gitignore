@@ -6,3 +6,7 @@
 salesforce.schema
 
 build.properties
+
+.sfdx
+
+.vscode
